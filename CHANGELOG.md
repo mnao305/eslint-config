@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://www.github.com/mnao305/eslint-config/compare/v1.1.0...v1.1.1) (2021-03-28)
+
+
+### Bug Fixes
+
+* separate file of rules related to json ([2b97f41](https://www.github.com/mnao305/eslint-config/commit/2b97f41c516f15229b45fb76278b500ce2fc4e13))
+
 ## [1.1.0](https://www.github.com/mnao305/eslint-config/compare/v1.0.1...v1.1.0) (2021-03-28)
 
 
