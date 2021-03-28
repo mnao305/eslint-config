@@ -1,0 +1,35 @@
+{
+  "name": "@mnao305/eslint-config",
+  "version": "1.0.0",
+  "description": "my eslint rules",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "presets",
+    "index.js"
+  ],
+  "author": "mnao305 <mail@mnao305.com> (https://mnao305.com/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.23.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsonc": "^1.2.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-vue": "^7.8.0",
+    "eslint-plugin-yml": "^0.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
+}
