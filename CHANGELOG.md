@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://www.github.com/mnao305/eslint-config/compare/v2.0.0...v3.0.0) (2021-03-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* add new error rule
+
+### Features
+
+* add comma-dangle rule ([1a823ec](https://www.github.com/mnao305/eslint-config/commit/1a823ec3639a1e6c9bab6d91ae854f5fe7752a34))
+
 ## [2.0.0](https://www.github.com/mnao305/eslint-config/compare/v1.1.3...v2.0.0) (2021-03-29)
 
 
