@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://www.github.com/mnao305/eslint-config/compare/v1.1.3...v2.0.0) (2021-03-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* add new error rule
+
+### Features
+
+* add import/order rule ([73bc301](https://www.github.com/mnao305/eslint-config/commit/73bc3015248e592b36e2d69ae4b17da66418b1f2))
+
 ### [1.1.3](https://www.github.com/mnao305/eslint-config/compare/v1.1.2...v1.1.3) (2021-03-29)
 
 
