@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://www.github.com/mnao305/eslint-config/compare/v1.1.2...v1.1.3) (2021-03-29)
+
+
+### Bug Fixes
+
+* add import/typescript to extends ([931cb3e](https://www.github.com/mnao305/eslint-config/commit/931cb3e4b359ac396dfbaef0fa238abd80d547b7))
+
 ### [1.1.2](https://www.github.com/mnao305/eslint-config/compare/v1.1.1...v1.1.2) (2021-03-29)
 
 
