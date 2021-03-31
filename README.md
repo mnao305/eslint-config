@@ -2,6 +2,8 @@
 
 my eslint config
 
+standard styleをベースにルール設定しています。
+
 ## install
 
 ```sh
