@@ -2,7 +2,7 @@
 
 my eslint config
 
-standard styleをベースにルール設定しています。
+`eslint:recommended`をベースにルール設定しています。
 
 ## install
 
