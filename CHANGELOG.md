@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://www.github.com/mnao305/eslint-config/compare/v3.0.0...v4.0.0) (2021-05-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* add new error rule
+* add new error rule
+* add new error rules
+* add new error rule
+* add new error rule
+* add new error rule
+* ベースルールの変更により多くのルールに影響があります。|順次ルールを追加していく予定です
+
+### Features
+
+* add camelcase rule ([e839409](https://www.github.com/mnao305/eslint-config/commit/e839409a08106af6090215c7fec09f737cbe130e))
+* add eqeqeq rule ([688f5f7](https://www.github.com/mnao305/eslint-config/commit/688f5f73b984919402f08ff39ebcfffabe23d2a8))
+* add indent rule ([68939ea](https://www.github.com/mnao305/eslint-config/commit/68939ead18983099931fd56375794cf0956239a4))
+* add no-console rule ([63a3832](https://www.github.com/mnao305/eslint-config/commit/63a3832a5484ae0a2fc54a1467fb9572bf1160a4))
+* add prefer-const rule ([f59daf5](https://www.github.com/mnao305/eslint-config/commit/f59daf5de376807fbef036df98a6c9afe5f84ff7))
+* add semi rule ([f9b1878](https://www.github.com/mnao305/eslint-config/commit/f9b187878b5f3d027c806ec0a8eb6649b0cff7de))
+* add space related rules ([49acb27](https://www.github.com/mnao305/eslint-config/commit/49acb27a004bfe9812709a1c3c7c7fe8108bdd25))
+* ベースルールの変更 ([ef4c183](https://www.github.com/mnao305/eslint-config/commit/ef4c183f2559fcab056e5e9c78398ba2496d704e)), closes [#16](https://www.github.com/mnao305/eslint-config/issues/16)
+
 ## [3.0.0](https://www.github.com/mnao305/eslint-config/compare/v2.0.0...v3.0.0) (2021-03-29)
 
 
