@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://www.github.com/mnao305/eslint-config/compare/v4.0.0...v5.0.0) (2021-06-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* new error
+* new error rule
+* add new error rule
+* add new error rule
+
+### Features
+
+* add comma-spacing rule ([6d125a9](https://www.github.com/mnao305/eslint-config/commit/6d125a90519254dcbab48e9e7fbfc777f69db436))
+* add comma-style rule ([1b441f3](https://www.github.com/mnao305/eslint-config/commit/1b441f315afbd83dde6e420a454bb4e25d3110bb))
+
+
+### Bug Fixes
+
+* change eqeqeq rule option to smart ([dcb75e3](https://www.github.com/mnao305/eslint-config/commit/dcb75e30199d027134fc612e6da49209ce0f550a)), closes [#23](https://www.github.com/mnao305/eslint-config/issues/23)
+* fix space-before-function-paren rule ([781ca0d](https://www.github.com/mnao305/eslint-config/commit/781ca0d598b372280c7f8baa69846fbab1d4b63f)), closes [#22](https://www.github.com/mnao305/eslint-config/issues/22)
+
 ## [4.0.0](https://www.github.com/mnao305/eslint-config/compare/v3.0.0...v4.0.0) (2021-05-09)
 
 
