@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://www.github.com/mnao305/eslint-config/compare/v5.0.0...v6.0.0) (2021-06-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* add new error rule
+
+### Features
+
+* add  rule ([5c64d3b](https://www.github.com/mnao305/eslint-config/commit/5c64d3b03b4feaf0188f36a2c74c7a95d7782928))
+* add typescript-sort-keys rule ([9e93dc4](https://www.github.com/mnao305/eslint-config/commit/9e93dc429c0ae869b0a45401b76f594dd5ef1495)), closes [#27](https://www.github.com/mnao305/eslint-config/issues/27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-promise to v5 ([#14](https://www.github.com/mnao305/eslint-config/issues/14)) ([104f02b](https://www.github.com/mnao305/eslint-config/commit/104f02bd2c7fce28e24c8d26481d5f5b3d68ddfd))
+
 ## [5.0.0](https://www.github.com/mnao305/eslint-config/compare/v4.0.0...v5.0.0) (2021-06-10)
 
 
