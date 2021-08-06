@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.1](https://www.github.com/mnao305/eslint-config/compare/v6.0.0...v6.0.1) (2021-08-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-yml to ^0.10.0 ([3ed63a8](https://www.github.com/mnao305/eslint-config/commit/3ed63a88e2e02553defc35f52a06e7eae802ee80))
+
 ## [6.0.0](https://www.github.com/mnao305/eslint-config/compare/v5.0.0...v6.0.0) (2021-06-20)
 
 
